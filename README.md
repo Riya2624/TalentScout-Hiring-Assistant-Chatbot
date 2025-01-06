@@ -146,7 +146,7 @@ The **TalentScout Hiring Assistant Chatbot** is designed to streamline the recru
 
 ### Start the App
 ```bash
-streamlit run hiring_assistant.py
+streamlit run bot1.py
 ```
 
 ### Install Dependencies
@@ -156,5 +156,5 @@ pip install -r requirements.txt
 
 ---
 
-This README provides all necessary details to set up, run, and extend the chatbot application. For questions or issues, feel free to contact [your_email@example.com].
+This README provides all necessary details to set up, run, and extend the chatbot application. For questions or issues, feel free to contact [rtriya2001@gmail.com].
 
